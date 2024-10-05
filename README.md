@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My Apps
+### My Apps
  🌎  **[Remote Only](https://remoteonly.io/)** - Your gateway to the best remote jobs worldwide!
 
 <!--
