@@ -4,7 +4,6 @@
 🌎  **[Remote Only](https://remoteonly.io/)** - Your gateway to the best remote jobs worldwide!  
 📝  **[BlogBeast](https://blogbeast.io/)** - A JavaScript-powered CMS that seamlessly integrates with frameworks like Next.js, Astro, Nuxt, and more!  
 💪  **[Strong Curves App](https://www.strongcurvesapp.com/)** - The #1 women's health and fitness app by Shelley Darlington!  
-
 👩🏻  **[Shelley Darlington](https://shelleydarlington.com/)** - Official website of health and fitness personality Shelley Darlington!
 
 
