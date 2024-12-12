@@ -5,6 +5,7 @@
 📝  **[BlogBeast](https://blogbeast.io/)** - A JavaScript-powered CMS that seamlessly integrates with frameworks like Next.js, Astro, Nuxt, and more!  
 💪  **[Strong Curves](https://www.strongcurves.com/)** - The #1 women's health and fitness app by Shelley Darlington!  
 👩🏻  **[Shelley Darlington](https://shelleydarlington.com/)** - Official website of health and fitness personality Shelley Darlington!
+
 🏋️‍♂️ **[Fit Fans](https://fitfans.io)** - Connect with elite fitness creators and transform your fitness journey!
 
 
