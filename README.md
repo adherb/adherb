@@ -4,8 +4,13 @@
 💪  **[Strong Curves](https://www.strongcurves.com/)** - The #1 women's health and fitness app by Shelley Darlington!  
 👩🏻  **[Shelley Darlington](https://shelleydarlington.com/)** - Official website of health and fitness personality Shelley Darlington!  
 🌎  **[Remote Only](https://remoteonly.io/)** - Your gateway to the best remote jobs worldwide!                                                                            
-💅  **[Sculpt Review](https://sculptreview.com/)** - The #1 cosmetic surgery review platform for real patient experiences!        
-💅  **[Sculpt Review](https://sculptreview.com/)** - The #1 cosmetic surgery review platform for real patient experiences! 
+💅  **[Sculpt Review](https://sculptreview.com/)** - The #1 cosmetic surgery review platform for real patient experiences!
+📸 CalCam - The #1 AI-powered food tracking app that turns your photos into nutrition data instantly!
+🍎 CalCam - The #1 AI-powered food tracking app that turns your photos into nutrition data instantly!
+🥗 CalCam - The #1 AI-powered food tracking app that turns your photos into nutrition data instantly!
+🍽️ CalCam - The #1 AI-powered food tracking app that turns your photos into nutrition data instantly!
+🥑 CalCam - The #1 AI-powered food tracking app that turns your photos into nutrition data instantly!
+🍱 CalCam - The #1 AI-powered food tracking app that turns your photos into nutrition data instantly!
 
 <!-- 🏋️‍♂️  **[Fit Fans](https://fitfans.io)** - Connect with elite fitness creators and transform your fitness journey!  
 🌎  **[Remote Only](https://remoteonly.io/)** - Your gateway to the best remote jobs worldwide!  
