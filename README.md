@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adherb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ### My Apps 
 💪  **[Strong Curves](https://www.strongcurves.com/)** - The #1 women's health and fitness app by Shelley Darlington!  
 👩🏻  **[Shelley Darlington](https://shelleydarlington.com/)** - Official website of health and fitness personality Shelley Darlington!  
