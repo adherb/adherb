@@ -4,7 +4,7 @@
 
 ### My Apps 
 💪 <a href="https://strongcurves.com" target="_blank">Strong Curves</a> — The #1 women’s fitness and nutrition app by Shelley Darlington.  
-🌎 <a href="https://remoteonly.io" target="_blank">RemoteOnly.io</a> — Your gateway to verified remote jobs worldwide.  
+🌎 <a href="https://remoteonly.io" target="_blank">RemoteOnly</a> — Your gateway to verified remote jobs worldwide.  
 💅 <a href="https://sculptreview.com" target="_blank">SculptReview.com</a> — The #1 cosmetic surgery review platform for real patient experiences.
 
 
