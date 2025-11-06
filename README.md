@@ -3,9 +3,10 @@
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adherb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### My Apps 
-💪  **[Strong Curves](https://www.strongcurves.com/)** - The #1 women's health and fitness app by Shelley Darlington!  
-🌎  **[Remote Only](https://remoteonly.io/)** - Your gateway to the best remote jobs worldwide!                                                                            
-💅  **[Sculpt Review](https://sculptreview.com/)** - The #1 cosmetic surgery review platform for real patient experiences!             
+💪 <a href="https://strongcurves.com" target="_blank">Strong Curves</a> — The #1 women’s fitness and nutrition app by Shelley Darlington.  
+🌎 <a href="https://remoteonly.io" target="_blank">RemoteOnly.io</a> — Your gateway to verified remote jobs worldwide.  
+💅 <a href="https://sculptreview.com" target="_blank">SculptReview.com</a> — The #1 cosmetic surgery review platform for real patient experiences.
+
 
 <!-- 
                
