@@ -3,9 +3,8 @@
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adherb&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### My Apps 
-💪 <a href="https://strongcurves.com" target="_blank">Strong Curves</a> — The #1 women’s fitness and nutrition app by Shelley Darlington.  
+💪 <a href="https://strongcurves.com" target="_blank">Strong Curves</a> — The #1 women’s fitness app by Shelley Darlington.  
 🌎 <a href="https://remoteonly.io" target="_blank">RemoteOnly</a> — Your gateway to verified remote jobs worldwide.  
-💅 <a href="https://sculptreview.com" target="_blank">SculptReview.com</a> — The #1 cosmetic surgery review platform for real patient experiences.
 
 
 <!-- 
